@@ -9,7 +9,7 @@ public static void main(String[] args) {
 		Thread t1 = new Thread(r);
 		//Thread t2 = new Thread(r);
 		t1.start();
-		//changes on 01-10-2018
+		//changes 
 		
 		Thread t = Thread.currentThread();
 		for(int i=100;i<105;i++){

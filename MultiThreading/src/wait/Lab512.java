@@ -10,7 +10,13 @@ public class Lab512 {
 		//MyThread th2 = new MyThread(h2);
 		th1.start();
 		th2.start();
+
 		//gangadhar scvjhavbschjvxcv
+
+		//gangadhar
+		
+		//vamsi
+
 	}
 
 }
